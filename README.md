@@ -92,7 +92,7 @@ Built an interactive dashboard including:
     - Attrition rate by Business Travel
     - Attrition rate by Job Role
 
-### Key Insights
+## Key Insights
 
 - High Attrition Rate (~22%)
     - Indicates significant retention challenges
@@ -142,3 +142,12 @@ Built an interactive dashboard including:
 - Optimize business travel policies
     -Reduce unnecessary travel
     - Provide compensation for frequent travelers
+
+## Conclusion
+
+This project demonstrates how data can be used to uncover hidden patterns in employee behavior. The analysis highlights that attrition is primarily driven by employee experience factors rather than salary or role, emphasizing the importance of organizational culture and work environment.
+
+## Author
+Umesh Harsana
+B.Tech, IIT(BHU)
+Aspiring Data Analyst
