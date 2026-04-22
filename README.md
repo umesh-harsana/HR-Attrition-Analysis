@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project focuses on analyzing employee attrition using a structured dataset of more than 10,000 employees. The goal is to identify key factors driving employee turnover and provide actionable business insights to improve retention.
-The project covers the entire data analysis pipeline — from raw data handling and cleaning in MySQL Workbench to building an interactive dashboard in Power BI.
+The project covers the entire data analysis pipeline from raw data handling and cleaning in MySQL Workbench to building an interactive dashboard in Power BI.
 
 ## Objectives
 
@@ -148,6 +148,6 @@ Built an interactive dashboard including:
 This project demonstrates how data can be used to uncover hidden patterns in employee behavior. The analysis highlights that attrition is primarily driven by employee experience factors rather than salary or role, emphasizing the importance of organizational culture and work environment.
 
 ## Author
-Umesh Harsana
-B.Tech, IIT(BHU)
-Aspiring Data Analyst
+- Umesh Harsana
+- B.Tech, IIT(BHU)
+- Aspiring Data Analyst
