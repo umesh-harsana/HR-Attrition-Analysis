@@ -73,7 +73,7 @@ Performed exploratory and analytical queries:
 
 ### Dashboard Development (Power BI)
 
-![Dashboard](images/dashboard.png)
+![Dashboard](image/dashboard.png)
 
 Built an interactive dashboard including:
 
