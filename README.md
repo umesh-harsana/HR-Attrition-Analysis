@@ -1,4 +1,4 @@
-# HR Attrition Analysis
+# 👥 HR Attrition Analysis
 
 ## Project Overview
 
