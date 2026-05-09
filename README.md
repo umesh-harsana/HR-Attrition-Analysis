@@ -81,7 +81,7 @@ Built an interactive dashboard including:
     - Total Employees
     - Active Employees
     - Attrition Count
-    - Attrition Rate (~22.47%)
+    - Attrition Rate (**~22.47%**)
     - Average Salary
     - Average Age
 
@@ -96,7 +96,7 @@ Built an interactive dashboard including:
 
 ## Key Insights
 
-- High Attrition Rate (~22%)
+- High Attrition Rate (**~22%**)
     - Indicates significant retention challenges
 - Distance from home impacts retention
     - Attrition increases rapidly for distance > 10
@@ -110,7 +110,7 @@ Built an interactive dashboard including:
     - Employees working overtime show higher attrition rate
 - Business Travel has major impact
     - No travel: ~ 18% attrition
-    - Frequent travel: ~34% attrition (highest observed)
+    - Frequent travel: **~34%** attrition (highest observed)
 - Department, Salary, and Role have minimal impact
     - Attrition is consistent across these factors (range < 3%)
 
@@ -150,6 +150,6 @@ Built an interactive dashboard including:
 This project demonstrates how data can be used to uncover hidden patterns in employee behavior. The analysis highlights that attrition is primarily driven by employee experience factors rather than salary or role, emphasizing the importance of organizational culture and work environment.
 
 ## Author
-- Umesh Harsana
-- B.Tech, IIT(BHU)
+**Umesh Harsana**  
+- B.Tech, IIT(BHU) Varanasi  
 - Aspiring Data Analyst
